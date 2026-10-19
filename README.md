@@ -2,7 +2,7 @@
 
 # Asmin Poudel
 
-### Backend & Django Developer · Python · FastAPI · PostgreSQL & Computer Vision
+### Backend & Django Developer · Python · FastAPI · PostgreSQL & Computer Vision . GENAI
 
 I build reliable database-driven web applications, REST APIs, payment systems, and practical backend solutions to real-world problems.
 
